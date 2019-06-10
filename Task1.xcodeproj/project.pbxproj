@@ -13,7 +13,7 @@
 		047AA905229DD243005F6BD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047AA904229DD243005F6BD4 /* Assets.xcassets */; };
 		047AA908229DD243005F6BD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 047AA906229DD243005F6BD4 /* LaunchScreen.storyboard */; };
 		047AA912229DD332005F6BD4 /* secViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047AA911229DD332005F6BD4 /* secViewController.swift */; };
-		04B4515A229DD97C007A6E98 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04B45159229DD97C007A6E98 /* GoogleService-Info.plist */; };
+		04860DD022AED7470048E0FF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04860DCF22AED7470048E0FF /* GoogleService-Info.plist */; };
 		04FF3521229DDE7600D18BA8 /* homeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FF3520229DDE7600D18BA8 /* homeViewController.swift */; };
 		04FF3523229E150500D18BA8 /* loginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FF3522229E150500D18BA8 /* loginViewController.swift */; };
 		04FF3528229E201400D18BA8 /* ProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 04FF3525229E201400D18BA8 /* ProgressHUD.bundle */; };
@@ -30,7 +30,7 @@
 		047AA907229DD243005F6BD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		047AA909229DD243005F6BD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		047AA911229DD332005F6BD4 /* secViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secViewController.swift; sourceTree = "<group>"; };
-		04B45159229DD97C007A6E98 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		04860DCF22AED7470048E0FF /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		04FF3520229DDE7600D18BA8 /* homeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeViewController.swift; sourceTree = "<group>"; };
 		04FF3522229E150500D18BA8 /* loginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginViewController.swift; sourceTree = "<group>"; };
 		04FF3524229E201200D18BA8 /* Task1-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Task1-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -84,9 +84,9 @@
 				04FF3522229E150500D18BA8 /* loginViewController.swift */,
 				047AA901229DD242005F6BD4 /* Main.storyboard */,
 				047AA904229DD243005F6BD4 /* Assets.xcassets */,
+				04860DCF22AED7470048E0FF /* GoogleService-Info.plist */,
 				047AA906229DD243005F6BD4 /* LaunchScreen.storyboard */,
 				047AA909229DD243005F6BD4 /* Info.plist */,
-				04B45159229DD97C007A6E98 /* GoogleService-Info.plist */,
 				04FF3525229E201400D18BA8 /* ProgressHUD.bundle */,
 				04FF3526229E201400D18BA8 /* ProgressHUD.h */,
 				04FF3527229E201400D18BA8 /* ProgressHUD.m */,
@@ -180,8 +180,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				047AA908229DD243005F6BD4 /* LaunchScreen.storyboard in Resources */,
-				04B4515A229DD97C007A6E98 /* GoogleService-Info.plist in Resources */,
 				047AA905229DD243005F6BD4 /* Assets.xcassets in Resources */,
+				04860DD022AED7470048E0FF /* GoogleService-Info.plist in Resources */,
 				04FF3528229E201400D18BA8 /* ProgressHUD.bundle in Resources */,
 				047AA903229DD242005F6BD4 /* Main.storyboard in Resources */,
 			);
